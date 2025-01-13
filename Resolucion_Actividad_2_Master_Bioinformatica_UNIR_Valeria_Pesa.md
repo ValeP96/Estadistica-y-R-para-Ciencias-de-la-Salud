@@ -1,14 +1,3 @@
----
-title: "Resolución Actividad 2 máster Bioinformática UNIR"
-author: "Valeria Pesa"
-date: "2024-12-28"
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 # Actividad 2. Análisis descriptivos en R
 
 ## Introducción
